@@ -3,6 +3,6 @@ theme: jekyll-theme-minimal
 title: [Swede White]
 description: [Some of my projects can be found here]
 
-show_downloads: ["true" or "false" to indicate whether to provide a download URL]
+show_downloads: ["true"]
 
   
